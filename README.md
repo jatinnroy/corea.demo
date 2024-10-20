@@ -3,6 +3,13 @@ Its a demo for you
 This will work with MS SQL SERVER
 This project is based on .net core 8 with JWT token authentication and Swagger
 
+
+I used a generic repository to maintain SOLID principles.
+I used Fluent validation for validation on the server side.
+I used the entity framework.
+I used Mapster to bind/transfer data in between
+I used the model-first approach, which is a faster way, and also maintained the process regarding database changes and updates.
+
 # To intial 
 Make sure you fire below comman in the demo.Database project
 run this command in package manager console
