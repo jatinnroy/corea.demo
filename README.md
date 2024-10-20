@@ -32,3 +32,12 @@ And once login with postman, and authorizing user with token
 You can perform the desired operation
 and it also validate the duplication of appointment for health care proffesional
 
+# What if had more time to complete this exercies
+I can implement ci/cd process whic i know for basic level
+I can implement unit test with use of MSTEST 
+I can Cancel an appointment (with constraints, e.g., not allowed within 24 hours of the appointment time).
+I can make base entity which are common in 80% of model in whole project
+I can create dtos as trasnfer model
+I can create srvice of user which have all required info of logged in user so i can use it anywhere in the code
+I can do much more in this
+  
